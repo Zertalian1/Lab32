@@ -1,0 +1,3 @@
+/home/danil/CLionProjects/Lab32/cmake-build-debug/CMakeFiles/Lab32.dir
+/home/danil/CLionProjects/Lab32/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/danil/CLionProjects/Lab32/cmake-build-debug/CMakeFiles/rebuild_cache.dir
